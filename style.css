@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Georgia, serif;
+  color: white;
+  background: url("image.png") no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  max-width: 700px;
+  margin: auto;
+  padding: 40px;
+  border-radius: 12px;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 2em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.1em;
+  margin: 8px 0;
+}
